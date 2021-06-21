@@ -6,4 +6,3 @@ for n in range(int(input("Qual o número de iterações desejada?\n"))):
 	lista.append(var)
 for n in lista:
 	print(n)
-printar("Fim do programa")
